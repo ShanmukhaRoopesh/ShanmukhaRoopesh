@@ -15,7 +15,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanmukharoopesh&label=Profile%20views&color=0e75b6&style=flat" alt="shanmukharoopesh" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/rohitforever045" target="blank"><img src="https://img.shields.io/twitter/follow/rohitforever045?logo=twitter&style=for-the-badge" alt="rohitforever045" /></a> </p>
+
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
