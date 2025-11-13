@@ -5,22 +5,27 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+👋;Shanmukha+Roopesh+here;Frontend+to+Cloud+☁️;Deploying+Dreams+🚀;Full+Stack+Developer&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+👋;Shanmukha+Roopesh+here;Frontend+to+Cloud+☁️;Deploying+Dreams+🚀&center=true&size=30">
   </a>
 </h1>
-<h3 align="center">Backend Java Developer</h3>
+  </a>
+</h1>
+<h3 align="center">Full Stack Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanmukharoopesh&label=Profile%20views&color=0e75b6&style=flat" alt="shanmukharoopesh" /> </p>
 
-<img align=“right” alt= “coding” width=“400” src=“https://giphy.com/gifs/PersonaJourney-debug-debugging-hiroshidebug-66M6ZwJkTLYikvhrqZ”>
 
 <p align="left"> <a href="https://twitter.com/rohitforever045" target="blank"><img src="https://img.shields.io/twitter/follow/rohitforever045?logo=twitter&style=for-the-badge" alt="rohitforever045" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I’m currently learning **DevSecOps**
 
 - 📫 How to reach me **shanmukharoopesh278@gmail.com**
 
 - ⚡ Fun fact **Pushing code like it’s a lifestyle**
+
+- ⚡ Learning the ways of the Cloud (AWS, mostly) — trying not to accidentally spin up a small data center.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
