@@ -10,7 +10,7 @@
 </h1>
   </a>
 </h1>
-<h3 align="center">Full Stack Java Developer</h3>
+<h3 align="center">💡 I build things that work… most of the time. Full-stack by title, DevOps by accident, debugger by destiny</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanmukharoopesh&label=Profile%20views&color=0e75b6&style=flat" alt="shanmukharoopesh" /> </p>
 
