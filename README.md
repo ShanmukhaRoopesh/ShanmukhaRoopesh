@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Shanmukha Roopesh😄</h1>
+<!-- <div align="center">
+  <h1 align="center">Hi 👋, I'm Shanmukha Roopesh</h1>
+
+### -->
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+👋;Shanmukha+Roopesh+here;Frontend+to+Cloud+☁️;Deploying+Dreams+🚀;Full+Stack+Developer&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">Backend Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanmukharoopesh&label=Profile%20views&color=0e75b6&style=flat" alt="shanmukharoopesh" /> </p>
