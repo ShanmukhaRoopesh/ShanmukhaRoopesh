@@ -3,11 +3,10 @@
 
 ### -->
 
-<h1 align="center ">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+👋;Shanmukha+Roopesh+here;Frontend+to+Cloud+☁️;Deploying+Dreams+🚀&center=true&size=30">
-  </a>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shanmukha+Roopesh!;Java+Full+Stack+Developer;Deployment+Dreams+🚀;Frontend+To+Cloud+☁️" />
 </h1>
+
   </a>
 </h1>
 <h3 align="center">💡 I build things that work… most of the time. Full-stack by title, DevOps by accident, debugger by destiny</h3>
